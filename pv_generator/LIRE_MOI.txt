@@ -1,0 +1,16 @@
+=== PV Generator — ENS Fès ===
+
+OPTION 1 — Lancer directement (icône Python dans la barre des tâches)
+----------------------------------------------------------------------
+Double-cliquer sur : lancer.bat
+
+OPTION 2 — Créer un .exe avec votre icône (RECOMMANDE)
+------------------------------------------------------
+1. Ouvrir un terminal dans ce dossier
+2. Double-cliquer sur : build_exe.bat
+3. Attendre la fin de la compilation (~1-2 minutes)
+4. L'executable "PV_Generator.exe" se trouve dans le dossier "dist\"
+5. Copier PV_Generator.exe + le dossier "assets\" au même endroit
+   (ou utiliser l'option --onedir à la place de --onefile)
+
+Prérequis : pip install PySide6 pyinstaller

@@ -1,0 +1,955 @@
+{
+  "ecole": "École Normale Supérieure de Fès",
+  "filieres": [
+    {
+      "nom": "SPÉCIALITÉ ENSEIGNEMENT SECONDAIRE – LANGUE FRANÇAISE",
+      "code": "SES_LF",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "Grammaire 1",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "Phonétique/Phonologie",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "Genres littéraires et Typologie textuelle",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "Initiation à la linguistique", "coefficient": 1},
+                {"nom": "M5",  "intitule": "Histoires des idées et des arts 1",      "coefficient": 1},
+                {"nom": "M6",  "intitule": " Les grands mythes", "coefficient": 1},
+                {"nom": "M7",  "intitule": "Méthodologie de travail universitaire, Digital skills et Langue 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "Grammaire 2",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "Lexicographie/Lexicologie",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "Catégories du récit",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "Poésie et versification", "coefficient": 1},
+                {"nom": "M12", "intitule": "Histoire des idées et des arts 2",      "coefficient": 1},
+                {"nom": "M13",  "intitule": "INITIATION AUX GENRES DRAMATIQUES", "coefficient": 1},
+                {"nom": "M14", "intitule": "Digital skills en éducation et Langue 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "Littératures africaines de langue française 1",         "coefficient": 1},
+                {"nom": "M16", "intitule": " Introduction à l’interculturel",         "coefficient": 1},
+                {"nom": "M17", "intitule": "Lecture du texte littéraire 1: le théâtre classique",       "coefficient": 1},
+                {"nom": "M18", "intitule": "Morphosyntaxe 1",                "coefficient": 1},
+                {"nom": "M19", "intitule": "Stylistique",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "Sciences de l’éducation",                "coefficient": 1},
+                {"nom": "M21", "intitule": "Développement personnel et Langue 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "Sémiotique",         "coefficient": 1},
+                {"nom": "M23", "intitule": "Sociolinguistique",         "coefficient": 1},
+                {"nom": "M24", "intitule": "Lecture du texte littéraire 2: Poésie du XIXe siècle",              "coefficient": 1},
+                {"nom": "M25", "intitule": "Morphosyntaxe 2",              "coefficient": 1},
+                {"nom": "M26", "intitule": "Littératures africaines de langue française 2",             "coefficient": 1},
+                {"nom": "M27", "intitule": "Histoire, art et patrimoine du Maroc / Langue 4 ",              "coefficient": 1},
+                {"nom": "M28", "intitule": "Approches et méthodes didactiques",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "Sémantique",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "Lecture du texte littéraire 3: le roman du XXe siècle",  "coefficient": 1},
+                {"nom": "M31", "intitule": "Psycholinguistique",          "coefficient": 1},
+                {"nom": "M32", "intitule": "Didactique du français",              "coefficient": 1},
+                {"nom": "M33", "intitule": "Déontologie du métier",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "Droit, civisme et citoyenneté / Langue 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "Analyse du discours et énonciation",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "Critique littéraire",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "Docimologie et évaluation",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "Langue 6",          "coefficient": 1},
+                {"nom": "M39", "intitule": "Histoire de l’Enseignement du français",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "Initiation à la recherche scientifique",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+     "nom": "SPÉCIALITÉ ENSEIGNEMENT SECONDAIRE – LANGUE ANGLAISE",
+      "code": "SES_LA",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "Reading Comprehension and Précis 1",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "Paragraph Writing",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "Grammar 1",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "Spoken English", "coefficient": 1},
+                {"nom": "M5",  "intitule": "Guided Reading",      "coefficient": 1},
+                {"nom": "M6",  "intitule": "BRITISH CULTURE AND SOSIETY", "coefficient": 1},
+                {"nom": "M7",  "intitule": "Methodologie du travail universitaire, digital skills et langue 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "Reading Comprehension and Précis 2",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "Composition 1",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "Grammar 2",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "Oral Communication", "coefficient": 1},
+                {"nom": "M12", "intitule": "Readings in Culture",      "coefficient": 1},
+                {"nom": "M13",  "intitule": " Culture and Society in the US", "coefficient": 1},
+                {"nom": "M14", "intitule": "Digital skills en éducation; Langue 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "CRITICAL READING",         "coefficient": 1},
+                {"nom": "M16", "intitule": " Composition 2",         "coefficient": 1},
+                {"nom": "M17", "intitule": "Grammar 3",       "coefficient": 1},
+                {"nom": "M18", "intitule": "Public Speaking and Debating 1",                "coefficient": 1},
+                {"nom": "M19", "intitule": "INTRODUCTION TO LANGUAGE",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "Sciences de l’éducation (psychopédagogie, sociologie de l’éducation) ",                "coefficient": 1},
+                {"nom": "M21", "intitule": " Développement personnel; Langue 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "Introduction to Literary Studies and Cultural Studies",         "coefficient": 1},
+                {"nom": "M23", "intitule": "Introduction to Linguistics",         "coefficient": 1},
+                {"nom": "M24", "intitule": "INTRODUCTION TO MEDIA STUDIES",              "coefficient": 1},
+                {"nom": "M25", "intitule": "Public Speaking and Debating 2 ",              "coefficient": 1},
+                {"nom": "M26", "intitule": "ADVANCED ACADEMIC WRITING",             "coefficient": 1},
+                {"nom": "M27", "intitule": "histoire, art et patrimoine du maroc; langue 4",              "coefficient": 1},
+                {"nom": "M28", "intitule": "Methods and Approaches",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "Educational Research",                           "coefficient": 1},
+                {"nom": "M30", "intitule": " Individual learner differences",  "coefficient": 1},
+                {"nom": "M31", "intitule": "Teaching Language Skills & Components",          "coefficient": 1},
+                {"nom": "M32", "intitule": "English Didactics",              "coefficient": 1},
+                {"nom": "M33", "intitule": "Déontologie du métier et législation scolaire",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "DROIT, CIVISME ET CITOYENNETE Langue 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "SPECIAL EDUCATIONAL NEEDS AND INCLUSIVE EDUCATION",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "CLASSROOM MANAGEMENT",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "RESEARCH AND PORTFOLIO WRITING",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "EVALUATION AND DOCIMOLOGY",          "coefficient": 1},
+                {"nom": "M39", "intitule": "History of Ideas",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "Langue 6",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ] 
+    },
+    {
+      "nom": "SPÉCIALITÉ ENSEIGNEMENT SECONDAIRE – SCIENCES DE LA VIE ET LA TERRE",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "Biologie Cellulaire",        "coefficient": 1},
+                {"nom": "M2",  "intitule": " histologie et embryologie",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "Géologie générale",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "Mathématique", "coefficient": 1},
+                {"nom": "M5",  "intitule": "Physique",      "coefficient": 1},
+                {"nom": "M6",  "intitule": "Chimie", "coefficient": 1},
+                {"nom": "M7",  "intitule": "Méthodologie de travail universitaire, Digital skills et Langue 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "BIOLOGIE DES ORGANISMES ANIMAUX",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "Biologie des organismes végétaux",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "BIOCHIMIE STRUCTURALE",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "GEODYNAMIQUE EXTERNE", "coefficient": 1},
+                {"nom": "M12", "intitule": "GEODYNAMIQUE INTERNE",      "coefficient": 1},
+                {"nom": "M13",  "intitule": "Microbiologie générale", "coefficient": 1},
+                {"nom": "M14", "intitule": "Digital skills en éducation, Langue 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "BIOCHIMIE METABOLIQUE",         "coefficient": 1},
+                {"nom": "M16", "intitule": "PHYSIOLOGIE ANIMALE",         "coefficient": 1},
+                {"nom": "M17", "intitule": "GENETIQUE GENERALE",       "coefficient": 1},
+                {"nom": "M18", "intitule": "SEDIMENTOLOGIE ET STRATIGRAPHIE",                "coefficient": 1},
+                {"nom": "M19", "intitule": "petrographie magmatique et metamorphique",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "Sciences de l’éducation",                "coefficient": 1},
+                {"nom": "M21", "intitule": "Développement personnel et Langue 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "IMMUNOLOGIE",         "coefficient": 1},
+                {"nom": "M23", "intitule": "FAUNISTIQUE / FLORISTIQUE",         "coefficient": 1},
+                {"nom": "M24", "intitule": "PHYSIOLOGIE VEGETALE",              "coefficient": 1},
+                {"nom": "M25", "intitule": "PALEONTOLOGIE",              "coefficient": 1},
+                {"nom": "M26", "intitule": "GEOLOGIE STRUCTURALE",             "coefficient": 1},
+                {"nom": "M27", "intitule": "DIDACTIQUE DES SCIENCES DE LA VIE ET DE LA TERRE 1 ",              "coefficient": 1},
+                {"nom": "M28", "intitule": "Histoire, art et patrimoine du Maroc / Langue 4",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "GEOLOGIE APPLIQUEE / GEOMATIQUE",                           "coefficient": 1},
+                {"nom": "M30", "intitule": " ECOLOGIE GENARALE 1",  "coefficient": 1},
+                {"nom": "M31", "intitule": "NUTRITION / PHYSIOLOGIE DES GRANDES FONCTIONS",          "coefficient": 1},
+                {"nom": "M32", "intitule": "APPROCHES ET METHODE DIDACTIQUES",              "coefficient": 1},
+                {"nom": "M33", "intitule": "HISTOIRE DES IDEES",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": " Droit, civisme et citoyenneté/ Langue 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "GEOLOGIE DU MAROC",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "BIOLOGIE MOLECULAIRE / GENETIQUE DES POPULATIONS ",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "ECOLOGIE GENERALE 2",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "DIDACTIQUE DES SVT 2 ET TECHNIQUES D’ANIMATION",          "coefficient": 1},
+                {"nom": "M39", "intitule": "Législation scolaire et éthique professionnelle",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "Langue 6",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "SPÉCIALITÉ ENSEIGNEMENT SECONDAIRE – SCIENCES PHYSIQUES ET CHIMIQUES",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "Mécanique du point",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "Thermodynamique",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "Atomistique",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "Chimie des solutions", "coefficient": 1},
+                {"nom": "M5",  "intitule": " Analyse 1",      "coefficient": 1},
+                {"nom": "M6",  "intitule": " Algèbre 1", "coefficient": 1},
+                {"nom": "M7",  "intitule": " Méthodologie de travail universitaire, Digital skills et Langue 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "Électrostatique et magnétostatique",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "Optique géométrique",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "Liaisons chimiques",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "Thermodynamique chimique", "coefficient": 1},
+                {"nom": "M12", "intitule": " Analyse 2",      "coefficient": 1},
+                {"nom": "M13",  "intitule": " Algèbre 2", "coefficient": 1},
+                {"nom": "M14", "intitule": "Digital skills en éducation, Langue 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "Mécanique du solide",         "coefficient": 1},
+                {"nom": "M16", "intitule": " Électromagnétisme dans le vide",         "coefficient": 1},
+                {"nom": "M17", "intitule": " Électrocinétique",       "coefficient": 1},
+                {"nom": "M18", "intitule": "Cristallographie et cristallochimie",                "coefficient": 1},
+                {"nom": "M19", "intitule": "Chimie organique 1",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "Sciences de l’éducation",                "coefficient": 1},
+                {"nom": "M21", "intitule": "Développement personnel et Langue 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "Propagation d’ondes",         "coefficient": 1},
+                {"nom": "M23", "intitule": "Electromagnétisme dans la matière",         "coefficient": 1},
+                {"nom": "M24", "intitule": "Optique ondulatoire",              "coefficient": 1},
+                {"nom": "M25", "intitule": "Chimie descriptive et diagrammes de phase",              "coefficient": 1},
+                {"nom": "M26", "intitule": "Chimie organique 2",             "coefficient": 1},
+                {"nom": "M27", "intitule": "Approches et méthodes didactiques ",              "coefficient": 1},
+                {"nom": "M28", "intitule": "Histoire, art et patrimoine M28 du Maroc / Langue 4",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "Mécanique quantique",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "Électronique",  "coefficient": 1},
+                {"nom": "M31", "intitule": "Électrochimie, cinétique et catalyse",          "coefficient": 1},
+                {"nom": "M32", "intitule": "Législation scolaire et déontologie professionnelle",              "coefficient": 1},
+                {"nom": "M33", "intitule": "Didactique de la Physique Chimie",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "Droit, civisme et citoyenneté/ Langue 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "Physique atomique et éléments de physique nucléaire",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "Physique statistique",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "Méthodes de séparation, d’analyse et de dosage",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "Langue 6",          "coefficient": 1},
+                {"nom": "M39", "intitule": "Docimologie et évaluation",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "Histoire et épistémologie des Sciences physiques",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "SPÉCIALITÉ ENSEIGNEMENT SECONDAIRE – MATHEMATIQUE",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "Analyse 1 : Suites numériques et fonctions",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "Algèbre 1: Généralités et structures",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "Algèbre 2 : Arithmétique dans Z, polynômes et fractions rationnelles",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "Thermodynamique", "coefficient": 1},
+                {"nom": "M5",  "intitule": " Optique",      "coefficient": 1},
+                {"nom": "M6",  "intitule": "Informatique 1: Introduction à l’informatique", "coefficient": 1},
+                {"nom": "M7",  "intitule": "Méthodologie de travail universitaire, Digital skills et Langue 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "Analyse2 : Intégration",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "Analyse 3 : Formules de Taylor, Développement Limité et Applications",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "Algèbre 3: Espaces Vectoriels, Matrices et Déterminant",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "Physique 3 : Electrostatique et magnétostatique", "coefficient": 1},
+                {"nom": "M12", "intitule": "Mécanique du point matériel et Mécanique du solide",      "coefficient": 1},
+                {"nom": "M13",  "intitule": " Informatique 2 : Algorithmes et programmation", "coefficient": 1},
+                {"nom": "M14", "intitule": " Digital skills en éducation, Langue 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "Analyse 4 : Séries numériques; Suites et séries de fonctions",         "coefficient": 1},
+                {"nom": "M16", "intitule": "Analyse 5 : Fonctions de plusieurs variables",         "coefficient": 1},
+                {"nom": "M17", "intitule": " Algèbre 4: Réduction des endomorphismes, applications",       "coefficient": 1},
+                {"nom": "M18", "intitule": "Probabilités et statistiques",                "coefficient": 1},
+                {"nom": "M19", "intitule": "Informatique 3 : Algorithmique et programmation",             "coefficient": 1},
+                 {"nom": "M20", "intitule": " Science de l'éducation",                "coefficient": 1},
+                {"nom": "M21", "intitule": "Développement personnel et Langue 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "Analyse 6 : Calcul intégral et formes différentielles",         "coefficient": 1},
+                {"nom": "M23", "intitule": "Algèbre 5 : Dualité, espaces euclidiens, espaces hermitiens",         "coefficient": 1},
+                {"nom": "M24", "intitule": "Analyse numérique",              "coefficient": 1},
+                {"nom": "M25", "intitule": " Leçons de Mathématiques",              "coefficient": 1},
+                {"nom": "M26", "intitule": " Informatique 4 : Algorithmique et structure des données",             "coefficient": 1},
+                {"nom": "M27", "intitule": "Approches et méthodes didactiques",              "coefficient": 1},
+                {"nom": "M28", "intitule": "Histoire, art et patrimoine du Maroc / Langue 4",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "Mesure et Intégration",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "Topologie générale",  "coefficient": 1},
+                {"nom": "M31", "intitule": "Algèbre 6 : Structures algébriques",          "coefficient": 1},
+                {"nom": "M32", "intitule": "Didactique de mathématiques",              "coefficient": 1},
+                {"nom": "M33", "intitule": " Législation scolaire et éthique professionnelle",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "Droit, civisme et citoyenneté _ Langue 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "Calcul différentiel et optimisation",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "Algèbre et Géométrie",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "Analyse complexe",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "Histoire et épistémologie des Sciences des Mathématiques et approche multidisciplinaire",          "coefficient": 1},
+                {"nom": "M39", "intitule": "Docimologie et évaluations",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "Langue 6",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "SPÉCIALITÉ ENSEIGNEMENT PRIMAIRE",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "Français 1",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "Mathématiques 1",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "SCIENCES 1",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "Histoire et géographie", "coefficient": 1},
+                {"nom": "M5",  "intitule": "sciences de l'éducation",      "coefficient": 1},
+                {"nom": "M6",  "intitule": " ARABE 1", "coefficient": 1},
+                {"nom": "M7",  "intitule": "Méthodologie de travail universitaire ; Digital skills ; Langue 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "arabe2",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "Français 2",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "MATHEMATIQUE 2",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "SCIENCE 2", "coefficient": 1},
+                {"nom": "M12", "intitule": "Education islamique",      "coefficient": 1},
+                {"nom": "M13",  "intitule": " Introduction à la didactique", "coefficient": 1},
+                {"nom": "M14", "intitule": "Digital skills en éducation et Langue 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "Arabe 3",         "coefficient": 1},
+                {"nom": "M16", "intitule": "FRANÇAIS 3",         "coefficient": 1},
+                {"nom": "M17", "intitule": "Mathématiques 3",       "coefficient": 1},
+                {"nom": "M18", "intitule": "Psychologie du développement",                "coefficient": 1},
+                {"nom": "M19", "intitule": "DIDACTIQUE DE L’EVEIL SCIENTIFIQUE 1",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "Didactique de l’histoire et Géographie",                "coefficient": 1},
+                {"nom": "M21", "intitule": "Développement personnel ; Langue 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "Didactique de la langue arabe 1",         "coefficient": 1},
+                {"nom": "M23", "intitule": "DIDACTIQUE DU FRANÇAISE 1",         "coefficient": 1},
+                {"nom": "M24", "intitule": "DIDACTIQUE DES MATHEMATIQUES 1",              "coefficient": 1},
+                {"nom": "M25", "intitule": "Sociologie de l'éducation",              "coefficient": 1},
+                {"nom": "M26", "intitule": "DIDACTIQUE DE L’EVEIL SCIENTIFIQUE 2",             "coefficient": 1},
+                {"nom": "M27", "intitule": "Didactique de l'éducation islamique",              "coefficient": 1},
+                {"nom": "M28", "intitule": "Histoire, art et patrimoine du Maroc; Langue 4",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "Didactique de la langue arabe 2",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "Didactique du française 2",  "coefficient": 1},
+                {"nom": "M31", "intitule": "didactique des mathematiques 2",          "coefficient": 1},
+                {"nom": "M32", "intitule": "EPS et développement Psycho_socio_moteur",              "coefficient": 1},
+                {"nom": "M33", "intitule": "docimologie et evaluation",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "Droit, civisme et citoyenneté ; Langue 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "Langue 6",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "Techniques d’animation",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "Approches et methodes ppo et apc",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "Education artistique et developpement psychosociomoteur",          "coefficient": 1},
+                {"nom": "M39", "intitule": " Langue et culture amazighe",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "Deontologie du metier et legislation scolaire",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "تخصص التعليم الثانوي - التربية الإسلامية",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "علوم القرآن",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "مدخل إلى علوم الحديث",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "تاريخ التشريع الإسلامي",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "العقيدة الإسلامية", "coefficient": 1},
+                {"nom": "M5",  "intitule": "التزكية والتصوف السني",      "coefficient": 1},
+                {"nom": "M6",  "intitule": "النحو العربي", "coefficient": 1},
+                {"nom": "M7",  "intitule": "منهجية العمل الجامعي والمهارات الرقمية واللغة 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "قواعد التجهيد وعلم القراءات",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "علوم الحديث",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "أصول الفقه: الذلة - الذكاء",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "السيرة النبوية وأبعادها القيمية", "coefficient": 1},
+                {"nom": "M12", "intitule": "الفكر التربوي الإسلامي",      "coefficient": 1},
+                {"nom": "M13",  "intitule": "الصرف والإعلام", "coefficient": 1},
+                {"nom": "M14", "intitule": "المهارات الرقمية في التربية",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "علم التفسير ومناهج المفسرين",         "coefficient": 1},
+                {"nom": "M16", "intitule": "فقه العبادات: الصلاة - الصلاة",         "coefficient": 1},
+                {"nom": "M17", "intitule": "أصول الفقه: الدلالات - الاجتهاد",       "coefficient": 1},
+                {"nom": "M18", "intitule": "علم الكلام والتحديات المعاصرة",                "coefficient": 1},
+                {"nom": "M19", "intitule": "البلاغة النبوية",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "علوم التربية",                "coefficient": 1},
+                {"nom": "M21", "intitule": " التنمية الذاتية. اللغة 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": " تاريخ وفن وتراث المغرب - اللغة 4",         "coefficient": 1},
+                {"nom": "M23", "intitule": "فقه الحديث",         "coefficient": 1},
+                {"nom": "M24", "intitule": "فقه العبادات: الزكاة - الصوم - الحج",              "coefficient": 1},
+                {"nom": "M25", "intitule": "الخلافة الراشدة والقيم الإنسانية",              "coefficient": 1},
+                {"nom": "M26", "intitule": "الفكر والحضارة الإسلامية",             "coefficient": 1},
+                {"nom": "M27", "intitule": "الأدب الإسلامي",              "coefficient": 1},
+                {"nom": "M28", "intitule": "مقاربات وطرائق ديداكتيكية",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "منهجية البحث في العلوم الإنسانية",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "فقه المعاملات المالية",  "coefficient": 1},
+                {"nom": "M31", "intitule": "ديداكتيك التربية الإسلامية",          "coefficient": 1},
+                {"nom": "M32", "intitule": "التشريع المدرسي وأخلاقيات المهنة",              "coefficient": 1},
+                {"nom": "M33", "intitule": "Déontologie du métier",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "القانون والمدنية والمواطنة - اللغة 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "المنهجية المعرفية الإسلامية",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "فقه الأسرة والتحديات المعاصرة",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "الفقه المقارن",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "تاريخ أفكار العلوم الإنسانية والاجتماعية",          "coefficient": 1},
+                {"nom": "M39", "intitule": " التقييم والدوسيمولوجيا",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "اللغة 6",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "تخصص التعليم الثانوي - اللغة العربية",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "نحو 1",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "مدخل إلى اللسانيات",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "مدخل إلى تاريخ الأدب العربي",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "البداية العربية", "coefficient": 1},
+                {"nom": "M5",  "intitule": "العروض والثقافية",      "coefficient": 1},
+                {"nom": "M6",  "intitule": "فقه اللغة", "coefficient": 1},
+                {"nom": "M7",  "intitule": " منهجية العمل الجامعي والمعاهدات الرقمية واللغة 1",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "نحو 2",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "مدخل إلى الأدب الأندلسي والمغربي",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "شعر قديم",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "شعر حديث", "coefficient": 1},
+                {"nom": "M12", "intitule": " الأصواتية",      "coefficient": 1},
+                {"nom": "M13",  "intitule": "الأسلوبية والبلاغة الجديدة", "coefficient": 1},
+                {"nom": "M14", "intitule": " المهارات الرقمية في التدريس واللغة 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "المعجمية",         "coefficient": 1},
+                {"nom": "M16", "intitule": "ظواهر صرفية",         "coefficient": 1},
+                {"nom": "M17", "intitule": "النقد العربي القديم",       "coefficient": 1},
+                {"nom": "M18", "intitule": "النقد الحديث",                "coefficient": 1},
+                {"nom": "M19", "intitule": " نحو 3",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "علوم التربية",                "coefficient": 1},
+                {"nom": "M21", "intitule": " التنمية الشخصية واللغة 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "تطبيقات على نصوص ثورية",         "coefficient": 1},
+                {"nom": "M23", "intitule": " السرد القديم",         "coefficient": 1},
+                {"nom": "M24", "intitule": "الصوتية",              "coefficient": 1},
+                {"nom": "M25", "intitule": "سرد حديث",              "coefficient": 1},
+                {"nom": "M26", "intitule": "تطبيقات على نصوص شعرية",             "coefficient": 1},
+                {"nom": "M27", "intitule": "مقاربات وطرائق ديداكتيكية ",              "coefficient": 1},
+                {"nom": "M28", "intitule": " تاريخ وفن وتاريخ المغرب، اللغة 4",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "مدخل إلى السيميائيات التطبيقية",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "تلقي النص الأدبي",  "coefficient": 1},
+                {"nom": "M31", "intitule": "القانون والتربية والمواطنة، اللغة",          "coefficient": 1},
+                {"nom": "M32", "intitule": "ديداكتيك اللغة العربية",              "coefficient": 1},
+                {"nom": "M33", "intitule": " التشريع المدرسي وأخلاقيات المهنة",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "السيميائيات",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "الأساسيات النفسية والاجتماعية",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "تحليل الخطاب والتداوليات",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "قراءة النص المسرحي",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "Langue 6",          "coefficient": 1},
+                {"nom": "M39", "intitule": "التقييم والدوسيمولوجيا",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "تاريخ أفكار العلوم الإنسانية والاجتماعية",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "تخصص التعليم الثانوي - التاريخ والجغرافيا",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "تاريخ الحضارات القديمة (مصر وبلاد الرافدين، الإغريق والرومان)",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "تاريخ شمال إفريقيا القديم انطلاقا من المعطيات الأركيولوجية والاستغرافية",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "تطور الفكر التاريخي وإبستمولوجيا التاريخ",   "coefficient": 1},
+                {"nom": "M4",  "intitule": "الإحصاء الوصفي والتمثيل المبياني", "coefficient": 1},
+                {"nom": "M5",  "intitule": "مقدمات في الجغرافيا البشرية (أولويات في الجغرافية البشرية)",      "coefficient": 1},
+                {"nom": "M6",  "intitule": "مقدمات في الجغرافيا الطبيعية (الجيومورفولوجيا، المناخ الوصفي) (أولويات في الجغرافيا الطبيعية)", "coefficient": 1},
+                {"nom": "M7",  "intitule": "منهجية العمل الجامعي",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "قراءة وتحليل الخريطة الطبقية",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "تطور الفكر الجغرافي وإبستمولوجيا الجغرافيا",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "أساسيات في الجغرافيا الطبيعية (الجيومورفولوجيا الدينامية، المناخ الدينامي)",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "البيوجغرافيا", "coefficient": 1},
+                {"nom": "M12", "intitule": "التاريخ الوسيط (العالم الإسلامي وأوروبا) ",      "coefficient": 1},
+                {"nom": "M13",  "intitule": " تاريخ بلاد المغرب في العصر الوسيط", "coefficient": 1},
+                {"nom": "M14", "intitule": " المهارات الرقمية في التعليم. اللغة 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "تاريخ المغرب في العصر الحديث (الدولة السعدية والدولة العلوية)",         "coefficient": 1},
+                {"nom": "M16", "intitule": "تاريخ الدولة الإسلامية في العصر الحديث: المغرب والدولة العثمانية",         "coefficient": 1},
+                {"nom": "M17", "intitule": "جغرافية المغرب وإعداد التراب",       "coefficient": 1},
+                {"nom": "M18", "intitule": "جغرافية المجالين الحضري والريفي",                "coefficient": 1},
+                {"nom": "M19", "intitule": " البيئة والتنمية المستدامة",             "coefficient": 1},
+                 {"nom": "M20", "intitule": " تطوير الذات. اللغة 3",                "coefficient": 1},
+                {"nom": "M21", "intitule": " علوم التربية",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "سيميولوجيا والتمثيل الخرائطي",         "coefficient": 1},
+                {"nom": "M23", "intitule": "جغرافية المغرب الجهوية",         "coefficient": 1},
+                {"nom": "M24", "intitule": " تاريخ المغرب خلال القرن 19",              "coefficient": 1},
+                {"nom": "M25", "intitule": " مقاربات وطرائق ديداكتيكية",              "coefficient": 1},
+                {"nom": "M26", "intitule": "تاريخ العالم في القرن التاسع عشر (العلم الرأسمالي والعالم الإسلامي)",             "coefficient": 1},
+                {"nom": "M27", "intitule": " تاريخ وفن وتراث المغرب. اللغة 4",              "coefficient": 1},
+                {"nom": "M28", "intitule": "الديداكتيك العامة",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": " تاريخ العالم في القرن 20",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "ديداكتيك التاريخ",  "coefficient": 1},
+                {"nom": "M31", "intitule": "ديداكتيك الجغرافيا",          "coefficient": 1},
+                {"nom": "M32", "intitule": "قانون والمدنية والمواطنة. اللغة 5. الفرنسية / الإنجليزية",              "coefficient": 1},
+                {"nom": "M33", "intitule": " تاريخ أوروبا الحديث (عصر الأنوار والثورة الصناعية)",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "التشريع المدرسي وأخلاقيات المهنة",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": " تاريخ المغرب في القرن 20",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "قراءة وتحويل الوثيقة الجغرافية",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "التربية على المواطنة ومنظومة القيم",                  "coefficient": 1},
+                {"nom": "M38", "intitule": " اللغة 6",          "coefficient": 1},
+                {"nom": "M39", "intitule": "علم القياس والتقويم",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "تاريخ الأفكار والمقاربة المتعددة التخصصات",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "الإجازة في التربية - تخصص التعليم الثانوي الفلسفة",
+      "code": "LE",
+      "annees": [
+        {
+          "annee": 1,
+          "label": "1ère année",
+          "semestres": [
+            {
+              "label": "S1",
+              "modules": [
+                {"nom": "M1",  "intitule": "مبادئ التفكير الفلسفي",        "coefficient": 1},
+                {"nom": "M2",  "intitule": "مفاهيم ونصوص فلسفية",   "coefficient": 1},
+                {"nom": "M3",  "intitule": "علم النفس، تاريخ ومجالات",   "coefficient": 1},
+                {"nom": "M4",  "intitule": " الفلسفة اليونانية", "coefficient": 1},
+                {"nom": "M5",  "intitule": "مدخل إلى علم الاجتماع",      "coefficient": 1},
+                {"nom": "M6",  "intitule": "مناهج علم النفس ومدارسه", "coefficient": 1},
+                {"nom": "M7",  "intitule": "المهارات الرقمية واللغة 1 ومنهجية العمل الجامعي",      "coefficient": 1}
+              ]
+              
+            },
+            {
+              "label": "S2",
+              "modules": [
+                {"nom": "M8",  "intitule": "الفلسفة في العصر الوسيط",        "coefficient": 1},
+                {"nom": "M9",  "intitule": "المنطق وآليات الاستدلال",   "coefficient": 1},
+                {"nom": "M10",  "intitule": "فلسفة وتاريخ العلوم",   "coefficient": 1},
+                {"nom": "M11",  "intitule": "الكتابة الفلسفية", "coefficient": 1},
+                {"nom": "M12", "intitule": " نصوص فلسفية بلغة أجنبية",      "coefficient": 1},
+                {"nom": "M13",  "intitule": "الترجمة", "coefficient": 1},
+                {"nom": "M14", "intitule": "المهارات الرقمية في التربية - اللغة 2",      "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 2,
+          "label": "2ème année",
+          "semestres": [
+            {
+              "label": "S3",
+              "modules": [
+                {"nom": "M15", "intitule": "الفلسفة الحديثة",         "coefficient": 1},
+                {"nom": "M16", "intitule": " الفلسفة السياسية",         "coefficient": 1},
+                {"nom": "M17", "intitule": " الإبستمولوجيا",       "coefficient": 1},
+                {"nom": "M18", "intitule": "الميتافيزيقا",                "coefficient": 1},
+                {"nom": "M19", "intitule": " المؤلف الفلسفي 1",             "coefficient": 1},
+                 {"nom": "M20", "intitule": "علوم التربية",                "coefficient": 1},
+                {"nom": "M21", "intitule": " التنمية الذاتية - اللغة 3",             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S4",
+              "modules": [
+                {"nom": "M22", "intitule": "تيارات فلسفية معاصرة",         "coefficient": 1},
+                {"nom": "M23", "intitule": "فلسفة الدين/الجماليات",         "coefficient": 1},
+                {"nom": "M24", "intitule": "الفلسفة الأخلاقية",              "coefficient": 1},
+                {"nom": "M25", "intitule": "الأنثروبولوجيا الثقافية",              "coefficient": 1},
+                {"nom": "M26", "intitule": "المؤلف الفلسفي 2",             "coefficient": 1},
+                {"nom": "M27", "intitule": "مقاربات وطرائق ديداكتيكية ",              "coefficient": 1},
+                {"nom": "M28", "intitule": "تاريخ وفن وتراث المغرب / لغة 4",             "coefficient": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "annee": 3,
+          "label": "3ème année",
+          "semestres": [
+            {
+              "label": "S5",
+              "modules": [
+                {"nom": "M29", "intitule": "فلسفة اللغة والذهن ",                           "coefficient": 1},
+                {"nom": "M30", "intitule": "المؤلف الفلسفي 3",  "coefficient": 1},
+                {"nom": "M31", "intitule": "منطق القضايا",          "coefficient": 1},
+                {"nom": "M32", "intitule": "ديداكتيك الفلسفة",              "coefficient": 1},
+                {"nom": "M33", "intitule": "التشريع وأخاقيات المهنة",                             "coefficient": 1},
+                 {"nom": "M34", "intitule": "الحق والسلوك المدني والمواطنة / اللغة 5",                             "coefficient": 1}
+              ]
+            },
+            {
+              "label": "S6",
+              "modules": [
+                {"nom": "M35", "intitule": "الفكر العربي المعاصر",                         "coefficient": 1},
+                {"nom": "M36", "intitule": "نظريات الحجاج",                        "coefficient": 1},
+                {"nom": "M37", "intitule": "فلسفة التربية",                  "coefficient": 1},
+                {"nom": "M38", "intitule": "علم التقويم",          "coefficient": 1},
+                {"nom": "M39", "intitule": "تاريخ اافكار",                            "coefficient": 1},
+                {"nom": "M40", "intitule": "اللغة 6",                             "coefficient": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+@echo off
+echo Lancement PV Generator...
+pythonw app.py

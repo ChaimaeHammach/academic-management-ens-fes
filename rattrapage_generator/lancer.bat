@@ -1,0 +1,3 @@
+@echo off
+echo Lancement Rattrapage Manager...
+pythonw app.py
